@@ -1,4 +1,4 @@
-# PierreCrb aka Misterjuiice
+# PierreCrb
 
 22y old Developer & Digital Creator, based in Paris, France.
 
