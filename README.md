@@ -1,6 +1,6 @@
-# PierreCrb
+# PierreCrb aka Misterjuiice
 
-22y old Developer Student, based in Paris, France.
+22y old Developer & Digital Creator, based in Paris, France.
 
 ## Social:
 
