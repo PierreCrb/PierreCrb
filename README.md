@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/-@PierreCrb-%2523181717?style=flat-square&logo=github)](https://github.com/PierreCrb)
 [![](https://img.shields.io/badge/-@Misterjuiice-orange?style=flat-square&logo=gitlab)](https://gitlab.com/misterjuiice)
-[![](https://img.shields.io/badge/-Pita%239939-%232c2f33?style=flat-square&logo=discord)]()
+[![](https://img.shields.io/badge/-0xPierre%239939-%232c2f33?style=flat-square&logo=discord)]()
 
 ## Languages:
 
