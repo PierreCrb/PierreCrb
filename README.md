@@ -2,8 +2,7 @@
 
 22y old Developer & Digital Creator, based in Paris, France.
 
-[![](Personal Website)](https://0xpierre.com)
-
+[Personal Website](https://0xpierre.com)
 
 ## Social:
 
