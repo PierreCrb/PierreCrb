@@ -2,6 +2,9 @@
 
 22y old Developer & Digital Creator, based in Paris, France.
 
+[![](Personal Website)](https://0xpierre.com)
+
+
 ## Social:
 
 [![](https://img.shields.io/badge/-@PierreCrb-%2523181717?style=flat-square&logo=github)](https://github.com/PierreCrb)
