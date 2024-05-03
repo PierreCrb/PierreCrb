@@ -1,6 +1,6 @@
 # 0xPierre
 
-23y old Developer & Digital Creator, based in Paris, France.
+24y old Developer & Digital Creator, based in Paris, France.
 
 [0xpierre.com](https://0xpierre.com)
 
