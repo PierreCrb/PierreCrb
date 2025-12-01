@@ -7,9 +7,11 @@ Developer - Ethical Hacker - Digital Creator
 ## Social:
 
 [![](https://img.shields.io/badge/-@PierreCrb-%2523181717?style=flat-square&logo=github)](https://github.com/PierreCrb)
-[![](https://img.shields.io/badge/-@Misterjuiice-orange?style=flat-square&logo=gitlab)](https://gitlab.com/misterjuiice)
-[![](https://img.shields.io/badge/-0xPierre-%232c2f33?style=flat-square&logo=discord)]()
 [![](https://img.shields.io/youtube/channel/subscribers/UC1fH4SxZP8ir-EL2KZWB43A?style=social)](https://www.youtube.com/c/0xPierre)
+[![](https://img.shields.io/badge/-@0xPierre_com-1DA1F2?style=flat-square&logo=x)](https://x.com/0xPierre_com)
+[![](https://img.shields.io/badge/-0xpierre_-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/0xpierre_)
+[![](https://img.shields.io/badge/-@0xpierre.dev-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/0xpierre.dev)
+
 
 ## Languages:
 
