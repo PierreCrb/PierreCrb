@@ -1,6 +1,6 @@
 # 0xPierre
 
-26y old Developer & Digital Creator, based in Paris, France.
+Developer - Ethical Hacker - Digital Creator
 
 [0xpierre.com](https://0xpierre.com)
 
