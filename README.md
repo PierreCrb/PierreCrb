@@ -11,35 +11,34 @@ Developer - Ethical Hacker - Digital Creator
 [![](https://img.shields.io/badge/-0xpierre_-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/0xpierre_)
 [![](https://img.shields.io/youtube/channel/subscribers/UC1fH4SxZP8ir-EL2KZWB43A?style=social)](https://www.youtube.com/c/0xPierre)
 
+## Languages
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png"></code>
 
-## Languages:
+## Frameworks & Libraries
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
 
+## Tools & Platforms
 
-## Frameworks/Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"></code>
 
 ## Cloud Provider Experience:
 
