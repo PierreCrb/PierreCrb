@@ -4,7 +4,7 @@ Developer - Ethical Hacker - Digital Creator
 
 [0xpierre.com](https://0xpierre.com)
 
-## Social:
+## Social
 
 [![](https://img.shields.io/badge/-@0xPierre_com-1DA1F2?style=flat-square&logo=x)](https://x.com/0xPierre_com)
 [![](https://img.shields.io/badge/-@0xpierre.dev-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/0xpierre.dev)
