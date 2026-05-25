@@ -1,6 +1,6 @@
 # 0xPierre
 
-Developer - Ethical Hacker - Digital Creator
+Developer
 
 [0xpierre.com](https://0xpierre.com)
 
